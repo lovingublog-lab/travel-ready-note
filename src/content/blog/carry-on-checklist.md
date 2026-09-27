@@ -5,7 +5,7 @@ pubDate: 2026-09-28
 category: "여행 준비"
 tags: ["여행체크리스트","짐싸기","출국준비"]
 featured: true
-draft: false
+draft: true
 ---
 여행 준비는 짐을 많이 챙기는 것보다 **현지에서 대체하기 어려운 항목부터 확인하는 것**이 중요합니다.
 
