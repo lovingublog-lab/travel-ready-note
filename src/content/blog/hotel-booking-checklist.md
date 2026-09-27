@@ -5,7 +5,7 @@ pubDate: 2026-09-28
 category: "숙소"
 tags: ["호텔예약", "여행준비", "숙소", "체크리스트"]
 featured: true
-image: "/travel-ready-note/images/hotel-booking-checklist.svg"
+image: "/images/hotel-booking-checklist.svg"
 imageAlt: "호텔 예약 전 객실 조건과 체크리스트를 확인하는 여행 준비 일러스트"
 draft: false
 ---
