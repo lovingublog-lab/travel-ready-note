@@ -33,7 +33,7 @@ const jsonLd=article?{'@context':'https://schema.org','@graph':[
 <meta name="theme-color" content="#1e6f8c"/><script type="application/ld+json" set:html={JSON.stringify(jsonLd)}/>
 {article&&<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9371741860593701" crossorigin="anonymous"></script>}
 </head><body>
-<header><div class="container nav"><a class="brand" href={base}>여행준비노트</a><nav><a href={base}>홈</a><a href={`${base}articles/`}>전체 글</a><a href={`${base}about/`}>소개</a><a href={`${base}contact/`}>문의</a><a href={`${base}search/`}>검색</a></nav></div></header>
+<header><div class="container nav"><a class="brand" href={base}>여행준비노트</a><nav class="desktop-nav" aria-label="주요 메뉴"><a href={base}>홈</a><a href={`${base}articles/`}>전체 글</a><a href={`${base}about/`}>소개</a><a href={`${base}contact/`}>문의</a><a href={`${base}search/`}>검색</a></nav><details class="mobile-menu"><summary>메뉴</summary><nav class="mobile-menu-panel" aria-label="모바일 메뉴"><a href={base}>홈</a><a href={`${base}articles/`}>전체 글</a><a href={`${base}search/`}>검색</a><a href={`${base}about/`}>소개</a><a href={`${base}contact/`}>문의</a></nav></details></div></header>
 <main><slot/></main>
 <footer><div class="container foot"><strong>여행준비노트</strong><span>여행 준비, 교통, 숙소, 짐싸기, 여행 앱과 서비스를 실용적으로 정리하는 여행 정보</span><div><a href={`${base}privacy/`}>개인정보처리방침</a> · <a href={`${base}contact/`}>문의</a> · <a href={`${base}rss.xml`}>RSS</a></div></div></footer>
   <script is:inline>
