@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" rx="36" fill="#eef7f2"/>
+<rect x="165" y="150" width="420" height="360" rx="44" fill="#3b82f6"/>
+<rect x="225" y="100" width="300" height="90" rx="40" fill="none" stroke="#1d4ed8" stroke-width="24"/>
+<circle cx="255" cy="545" r="28" fill="#334155"/>
+<circle cx="495" cy="545" r="28" fill="#334155"/>
+<rect x="675" y="125" width="330" height="410" rx="30" fill="#ffffff"/>
+<path d="M735 220l28 28 55-65" fill="none" stroke="#22c55e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M735 320l28 28 55-65" fill="none" stroke="#22c55e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M735 420l28 28 55-65" fill="none" stroke="#22c55e" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="845" y="205" width="110" height="20" rx="10" fill="#cbd5e1"/>
+<rect x="845" y="305" width="110" height="20" rx="10" fill="#cbd5e1"/>
+<rect x="845" y="405" width="110" height="20" rx="10" fill="#cbd5e1"/>
+<path d="M350 245h55v80h80v55h-80v80h-55v-80h-80v-55h80z" fill="#bfdbfe"/>
+</svg>
