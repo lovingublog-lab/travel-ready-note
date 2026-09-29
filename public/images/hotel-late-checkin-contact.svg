@@ -1,1 +1,112 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675"><rect width="1200" height="675" fill="#eef5fb"/><rect y="470" width="1200" height="205" fill="#d8e4ed"/><rect x="110" y="90" width="980" height="490" rx="32" fill="#fff"/><rect x="180" y="180" width="330" height="300" rx="28" fill="#d9e7f0"/><rect x="230" y="230" width="230" height="210" rx="16" fill="#fff7e7"/><rect x="270" y="265" width="150" height="45" rx="10" fill="#9fc0d4"/><circle cx="345" cy="375" r="16" fill="#d6a96f"/><rect x="650" y="170" width="220" height="360" rx="32" fill="#293d50"/><rect x="672" y="200" width="176" height="286" rx="20" fill="#f2f7fb"/><rect x="700" y="235" width="120" height="54" rx="18" fill="#d8e9dd"/><rect x="720" y="250" width="82" height="10" rx="5" fill="#7fa28a"/><rect x="700" y="315" width="105" height="54" rx="18" fill="#e8eef4"/><rect x="720" y="330" width="66" height="10" rx="5" fill="#92a3b3"/><rect x="700" y="395" width="130" height="54" rx="18" fill="#d8e9dd"/><rect x="720" y="410" width="90" height="10" rx="5" fill="#7fa28a"/><path d="M515 330c60-50 95-60 135-42" fill="none" stroke="#7898ae" stroke-width="10" stroke-linecap="round"/><path d="M620 276l30 12-25 20" fill="none" stroke="#7898ae" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="970" cy="210" r="42" fill="#f0c98f"/><path d="M970 182v28l20 12" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">호텔 늦은 체크인 연락 장면</title>
+<desc id="desc">야간 호텔 입구, 여행가방, 스마트폰 메시지 화면, 시계, 도착 안내판을 한 장면에 담은 에디토리얼 일러스트</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#18263f"/><stop offset="1" stop-color="#3b5870"/></linearGradient>
+  <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1e7d7"/><stop offset="1" stop-color="#d2c1a8"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9edf3"/><stop offset="1" stop-color="#91b8c5"/></linearGradient>
+  <linearGradient id="phone" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#27394a"/><stop offset="1" stop-color="#152331"/></linearGradient>
+  <linearGradient id="case" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#90bfd0"/><stop offset="1" stop-color="#608ca0"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#07131f" flood-opacity=".28"/></filter>
+  <filter id="soft"><feGaussianBlur stdDeviation="22"/></filter>
+</defs>
+
+<rect width="1200" height="675" fill="url(#sky)"/>
+<circle cx="955" cy="110" r="78" fill="#f5dfab" opacity=".95"/>
+<circle cx="955" cy="110" r="55" fill="#fff8df" opacity=".9"/>
+<g fill="#f8f1cf" opacity=".8">
+  <circle cx="115" cy="86" r="2"/><circle cx="202" cy="55" r="3"/><circle cx="310" cy="110" r="2"/><circle cx="1080" cy="56" r="2"/><circle cx="1140" cy="155" r="2"/>
+</g>
+
+<g opacity=".8">
+  <rect x="0" y="435" width="1200" height="240" fill="#243a4d"/>
+  <g fill="#1a2d3d">
+    <rect x="18" y="338" width="120" height="220" rx="10"/><rect x="155" y="300" width="135" height="258" rx="10"/>
+    <rect x="938" y="320" width="115" height="238" rx="10"/><rect x="1068" y="275" width="112" height="283" rx="10"/>
+  </g>
+  <g fill="#f2c77f" opacity=".5">
+    <rect x="50" y="375" width="20" height="12" rx="3"/><rect x="86" y="375" width="20" height="12" rx="3"/>
+    <rect x="190" y="342" width="22" height="13" rx="3"/><rect x="230" y="342" width="22" height="13" rx="3"/>
+    <rect x="974" y="360" width="20" height="12" rx="3"/><rect x="1104" y="315" width="22" height="13" rx="3"/>
+  </g>
+</g>
+
+<ellipse cx="530" cy="570" rx="390" ry="55" fill="#f2c987" opacity=".16" filter="url(#soft)"/>
+<g filter="url(#shadow)">
+  <rect x="150" y="110" width="610" height="445" rx="28" fill="url(#wall)"/>
+  <rect x="178" y="146" width="554" height="380" rx="20" fill="#d8c9b3"/>
+</g>
+
+<rect x="318" y="130" width="270" height="54" rx="16" fill="#314759"/>
+<text x="453" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fff5dd" letter-spacing="5">HOTEL</text>
+
+<g>
+  <g fill="#34546a">
+    <rect x="205" y="218" width="104" height="68" rx="12"/><rect x="331" y="218" width="104" height="68" rx="12"/>
+    <rect x="457" y="218" width="104" height="68" rx="12"/><rect x="583" y="218" width="104" height="68" rx="12"/>
+    <rect x="205" y="310" width="104" height="68" rx="12"/><rect x="583" y="310" width="104" height="68" rx="12"/>
+  </g>
+  <g fill="#efc77f">
+    <rect x="216" y="229" width="82" height="46" rx="8"/><rect x="342" y="229" width="82" height="46" rx="8"/>
+    <rect x="468" y="229" width="82" height="46" rx="8"/><rect x="594" y="229" width="82" height="46" rx="8"/>
+    <rect x="216" y="321" width="82" height="46" rx="8"/><rect x="594" y="321" width="82" height="46" rx="8"/>
+  </g>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="330" y="318" width="225" height="208" rx="18" fill="#2d4353"/>
+  <rect x="354" y="344" width="177" height="182" rx="14" fill="url(#glass)"/>
+  <path d="M442 344v182" stroke="#58798a" stroke-width="6"/>
+  <rect x="354" y="468" width="177" height="58" fill="#745b49"/>
+  <circle cx="395" cy="409" r="15" fill="#edbf69"/><circle cx="490" cy="409" r="15" fill="#edbf69"/>
+  <rect x="388" y="424" width="14" height="34" rx="6" fill="#6e5848"/><rect x="483" y="424" width="14" height="34" rx="6" fill="#6e5848"/>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="690" y="190" width="340" height="392" rx="34" fill="url(#phone)"/>
+  <rect x="715" y="220" width="290" height="332" rx="26" fill="#f3f7f8"/>
+  <rect x="742" y="245" width="236" height="47" rx="15" fill="#d9e9df"/>
+  <circle cx="765" cy="268" r="13" fill="#709c82"/>
+  <rect x="789" y="256" width="120" height="9" rx="5" fill="#718795"/>
+  <rect x="789" y="273" width="86" height="7" rx="4" fill="#a9b7bf"/>
+  <rect x="744" y="320" width="178" height="67" rx="18" fill="#e4ebef"/>
+  <rect x="768" y="340" width="111" height="8" rx="4" fill="#8da0ac"/>
+  <rect x="768" y="359" width="88" height="7" rx="4" fill="#b0bec6"/>
+  <rect x="800" y="407" width="178" height="75" rx="20" fill="#c5decf"/>
+  <rect x="827" y="429" width="112" height="8" rx="4" fill="#668c74"/>
+  <rect x="850" y="449" width="89" height="7" rx="4" fill="#83a58f"/>
+  <rect x="744" y="500" width="234" height="32" rx="12" fill="#f0d79c"/>
+  <circle cx="769" cy="516" r="6" fill="#a67e41"/><circle cx="790" cy="516" r="6" fill="#a67e41"/><circle cx="811" cy="516" r="6" fill="#a67e41"/>
+  <rect x="827" y="511" width="111" height="9" rx="5" fill="#af8b53"/>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="604" y="438" width="150" height="180" rx="24" fill="url(#case)"/>
+  <rect x="625" y="460" width="108" height="133" rx="16" fill="#8eb4c2"/>
+  <path d="M678 438v-44M648 400q30-28 60 0" fill="none" stroke="#d7e6eb" stroke-width="9" stroke-linecap="round"/>
+  <circle cx="631" cy="609" r="12" fill="#1e2e3a"/><circle cx="728" cy="609" r="12" fill="#1e2e3a"/>
+  <path d="M645 490h68M645 516h48M645 542h58" stroke="#dbe8ec" stroke-width="7" stroke-linecap="round" opacity=".65"/>
+</g>
+
+<g filter="url(#shadow)">
+  <rect x="48" y="452" width="238" height="132" rx="20" fill="#25394a"/>
+  <text x="75" y="486" font-family="Arial, sans-serif" font-size="17" font-weight="700" fill="#dfe8ec" letter-spacing="2">ARRIVAL</text>
+  <rect x="76" y="503" width="178" height="14" rx="7" fill="#60798b"/>
+  <rect x="76" y="531" width="124" height="14" rx="7" fill="#c89554"/>
+  <circle cx="234" cy="538" r="7" fill="#e7bd79"/>
+</g>
+
+<g transform="translate(828 74)" filter="url(#shadow)">
+  <circle cx="0" cy="0" r="55" fill="#f2d69a"/>
+  <circle cx="0" cy="0" r="42" fill="#fff9ea"/>
+  <path d="M0-22V2L22 15" fill="none" stroke="#394e5d" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="0" cy="0" r="4" fill="#394e5d"/>
+</g>
+
+<path d="M770 418c-50 10-84 35-111 73" fill="none" stroke="#82c5df" stroke-width="7" stroke-linecap="round" opacity=".72"/>
+<path d="M662 489l9-22 13 19" fill="none" stroke="#82c5df" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g transform="translate(77 395) rotate(-8)" fill="#c6dce6" opacity=".9">
+  <path d="M0 0l66-18 46 7 42-11 15 8-52 27-47 3-34 21-20-2 19-19z"/>
+</g>
+</svg>
