@@ -5,7 +5,7 @@ pubDate: 2026-09-29T10:40:00+09:00
 category: "숙소"
 tags: ["호텔 늦은 체크인", "호텔 체크인", "숙소 연락", "여행 준비"]
 featured: false
-image: "/images/hotel-late-checkin-contact.svg"
+image: "/images/hotel-late-checkin-contact-scene.svg"
 imageAlt: "밤 시간 호텔 입구와 스마트폰 메시지 화면, 시계를 함께 보여주는 늦은 체크인 연락 장면 일러스트"
 draft: false
 ---
