@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9f3ff"/><stop offset="1" stop-color="#fff1df"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="10" stdDeviation="12" flood-opacity=".17"/></filter></defs>
+<rect width="1200" height="675" fill="url(#bg)"/>
+<rect y="535" width="1200" height="140" fill="#d9e0e7"/>
+<g filter="url(#s)">
+<rect x="120" y="115" width="330" height="470" rx="42" fill="#26323f"/>
+<rect x="143" y="158" width="284" height="360" rx="24" fill="#f8fafc"/>
+<path d="M190 240h190" stroke="#cbd5e1" stroke-width="18" stroke-linecap="round"/>
+<path d="M190 292h150" stroke="#93c5fd" stroke-width="18" stroke-linecap="round"/>
+<path d="M190 344h175" stroke="#86efac" stroke-width="18" stroke-linecap="round"/>
+<circle cx="285" cy="550" r="13" fill="#64748b"/>
+</g>
+<g filter="url(#s)">
+<rect x="545" y="125" width="250" height="165" rx="20" fill="#fff"/>
+<circle cx="602" cy="207" r="32" fill="#fde68a"/><path d="M650 184h110M650 212h82M650 240h96" stroke="#94a3b8" stroke-width="12" stroke-linecap="round"/>
+</g>
+<g filter="url(#s)">
+<rect x="620" y="355" width="350" height="190" rx="28" fill="#fff"/>
+<path d="M655 405h120v90H655z" fill="#bfdbfe"/><path d="M805 405h130v18H805zM805 443h98v18H805zM805 481h114v18H805z" fill="#cbd5e1"/>
+</g>
+<g transform="translate(900 115)" filter="url(#s)">
+<path d="M0 45c0-38 30-45 52-45s52 7 52 45v54H0z" fill="#475569"/><rect x="-20" y="82" width="144" height="130" rx="24" fill="#6b8ba4"/><rect x="42" y="115" width="20" height="45" rx="8" fill="#f8fafc"/>
+</g>
+<path d="M466 330c82-30 125-48 176-96" fill="none" stroke="#2563eb" stroke-width="12" stroke-linecap="round" stroke-dasharray="12 18"/>
+<path d="M627 212l30 7-8 30" fill="#2563eb"/>
+</svg>
